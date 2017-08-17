@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    align: center;
+    color: black;
+}
+
+h3 {
+    font-style: italic;
+}
+
+h4 {
+    text-decoration: underline;
+}
+#band-membersH2 {
+    font-family: impact, Charcoal, sans-serif;
+    font-style: bold;
+}
+#band-members {
+    font-family: impact, Charcoal, sans-serif;
+    font-style: italic;
+}
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+  font-family: impact, Charcoal, sans-serif;
+  text-decoration: none;
+  font-weight: none;
+}
+
+a:link {
+  color: Green;
+}
+
+a:visited {
+  color:black;
+}
+
+a:hover {
+  text-decoration: underline;
+  background-color: red;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+a:active {
+  font-weight: bold;
+}
+tbody tr:nth-child(even){
+    background-color: lemonchiffon;
+}
+tbody tr:nth-child(odd) {
+    background-color: lawngreen;
+}
+th {
+    background-color: white;
+}
+tbody {
+    font-style: italic;
+}

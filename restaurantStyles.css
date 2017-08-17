@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+head {
+    color: gold;
+    margin: auto;
+    text-align: center;
+}
+#Title {
+    font-family: "Courier New", Courier, monospace;
+}
+body {
+            background-color: black;
+            color: gold;
+            margin: auto;
+            text-align: center;
+            }
+footer {
+            background-color: gold;
+            color: black;
+            margin: auto;
+            text-align: center;
+            }
+table {
+            width: 100%;
+            text-align: center;
+            font-family: "Times New Roman", Times, sans-serif;
+            border: 1px solid gold;
+            }
+#Title {
+            font-family: "Courier New", Courier, monospace;
+            }      
+h3 {
+            font-size: x-large;
+                }
+header {
+            background-color: gold;
+            }
+#table2 {
+            text-align: left;
+            width: 50%,
+            }
+a {
+  font-family: monospace;
+  text-decoration: underline;
+  font-weight: none;
+  font-size: x-large;
+}
+
+a:link {
+  color:black;
+}
+
+a:visited {
+  color:purple;
+}
+
+a:hover {
+  text-decoration: bold;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+a:active {
+  font-weight: none;
+  text-decoration: none;
+}
